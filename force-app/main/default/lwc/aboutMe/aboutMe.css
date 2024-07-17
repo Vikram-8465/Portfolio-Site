@@ -1,0 +1,29 @@
+h1{
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+img {
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+img{
+    max-height: 80vh;
+}
+
+.image {
+    text-align: center;
+}
+
+.about-me-container {
+    margin: 2.5vw;
+    background-color: #f9f9f9;
+}
+
+.informaion {
+    padding-left: 15px;
+    padding-top: 10px;
+    text-align: justify;
+}
